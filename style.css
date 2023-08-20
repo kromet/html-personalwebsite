@@ -25,3 +25,7 @@ h5{
 #skills-experimence{
     background-color: #0E2954;
 }
+#jumbo{
+    display: flex;
+    justify-content: center;
+}
